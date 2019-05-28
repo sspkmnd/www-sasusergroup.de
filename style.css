@@ -1,0 +1,42 @@
+body {
+  font-family: system-ui,
+               -apple-system,
+               BlinkMacSystemFont,
+               "Segoe UI",
+               "Roboto",
+               "Oxygen",
+               "Ubuntu",
+               "Cantarell",
+               "Fira Sans",
+               "Droid Sans",
+               "Helvetica Neue",
+               sans-serif;
+  line-height: 1.5;
+  background: white;
+  margin: 0 auto;
+  max-width: 35em;
+  padding: 1em 1em;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0366d6;
+  text-decoration: underline;
+}
+
+img {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
